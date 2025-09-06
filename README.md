@@ -1,0 +1,2 @@
+# Mymod
+mods diamond 💎
